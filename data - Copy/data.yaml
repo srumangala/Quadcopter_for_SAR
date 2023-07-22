@@ -1,0 +1,5 @@
+train: /home/icfoss/drone/yolov5/data/train/images
+val: /home/icfoss/drone/yolov5/data/valid/images
+
+nc: 1
+names: ['Human']
